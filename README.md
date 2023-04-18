@@ -1,1 +1,0 @@
-[Project spec](./spec.pdf)
